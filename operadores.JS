@@ -8,5 +8,6 @@ num2 = 15
 //suma
 resultado= num1 + num2
 //imprimir resultado
-console.log("Es resultado de la suma es: " + resultado)
+console.log(`Es resultado de la suma es: ${resultado}`)
+
 
